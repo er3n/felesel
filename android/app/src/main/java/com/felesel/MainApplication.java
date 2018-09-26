@@ -4,6 +4,8 @@ import android.app.Application;
 
 import com.facebook.react.ReactApplication;
 import com.facebook.reactnative.androidsdk.FBSDKPackage;
+import com.facebook.reactnative.androidsdk.FBSDKPackage;
+import com.facebook.FacebookSdk;
 import com.airbnb.android.react.lottie.LottiePackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
@@ -11,6 +13,10 @@ import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
 import com.facebook.CallbackManager;
 import com.facebook.appevents.AppEventsLogger;
+import android.util.Log;
+import android.util.Base64;
+import java.security.MessageDigest;
+import android.content.pm.*;
 
 import java.util.Arrays;
 import java.util.List;
@@ -53,6 +59,7 @@ public class MainApplication extends Application implements ReactApplication {
   public void onCreate() {
     super.onCreate();
     SoLoader.init(this, /* native exopackage */ false);
-    //AppEventsLogger.activateApp(this);
+    AppEventsLogger.activateApp(this);
+        Log.e("KeyHash", "key:" + FacebookSdk.getApplicationSignature(this));
   }
 }
