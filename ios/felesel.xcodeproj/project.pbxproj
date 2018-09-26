@@ -39,6 +39,20 @@
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
 		750ADE3DCD234EDEBFA356F5 /* libLottieReactNative.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AB36F3AA4DB84AD987FD1014 /* libLottieReactNative.a */; };
 		5D36C7933C8B4BF7BEEF9F15 /* libRCTFBSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A5DD0762A1A4A01B51C09F3 /* libRCTFBSDK.a */; };
+		2D7D30AA195A4EA6B4DAF083 /* gt-eesti-pro-display-bold-italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5F348DDEE2004855AE05C981 /* gt-eesti-pro-display-bold-italic.otf */; };
+		5F6C2D8AF3EF4E549C939B21 /* gt-eesti-pro-display-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 33E3F8521084457AB62378B4 /* gt-eesti-pro-display-bold.otf */; };
+		7707BB14CFB544B68787F88F /* gt-eesti-pro-display-light-italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2F57F4562BC848C6915A09D3 /* gt-eesti-pro-display-light-italic.otf */; };
+		8EB3B3FB04324FEB945112D8 /* gt-eesti-pro-display-light.otf in Resources */ = {isa = PBXBuildFile; fileRef = CBE6BA27386742648203CB49 /* gt-eesti-pro-display-light.otf */; };
+		7A4F2A495F69452288BD2624 /* gt-eesti-pro-display-medium-italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0BFCCD9A9E0C4D34B45CA7D8 /* gt-eesti-pro-display-medium-italic.otf */; };
+		BF77528AE31D471F99EAE285 /* gt-eesti-pro-display-medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 267870ADAC274D6C9C13E3DE /* gt-eesti-pro-display-medium.otf */; };
+		45FC6BC3454E41BD99435E2A /* gt-eesti-pro-display-regular-italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 27A52E75A84E44358F27601E /* gt-eesti-pro-display-regular-italic.otf */; };
+		863EB29C80954947B2B0002B /* gt-eesti-pro-display-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1569AFBAB1D74DAAA6B468CC /* gt-eesti-pro-display-regular.otf */; };
+		5CCE936AA6DD4C2C89EE2390 /* gt-eesti-pro-display-thin-italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E63B99F734CA4F5BAE16B639 /* gt-eesti-pro-display-thin-italic.otf */; };
+		78BB94AED68D444CAFF4602C /* gt-eesti-pro-display-thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 78FDC8955BEC40E88568586B /* gt-eesti-pro-display-thin.otf */; };
+		F62BEF540E9B4578BE2D4417 /* gt-eesti-pro-display-ubold-italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 000F4673526A48C48EB5A378 /* gt-eesti-pro-display-ubold-italic.otf */; };
+		9528BD17998D4E56AC4CE884 /* gt-eesti-pro-display-ubold.otf in Resources */ = {isa = PBXBuildFile; fileRef = F47165D6F6F248999B33EDCB /* gt-eesti-pro-display-ubold.otf */; };
+		E7A721B44EEA4EADB62D1CC6 /* gt-eesti-pro-display-ulight-italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 43298785155542E08799CE89 /* gt-eesti-pro-display-ulight-italic.otf */; };
+		E27D77EF6141479A81E88F86 /* gt-eesti-pro-display-ulight.otf in Resources */ = {isa = PBXBuildFile; fileRef = E48DAD4049874A308E0D5377 /* gt-eesti-pro-display-ulight.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -348,6 +362,20 @@
 		AB36F3AA4DB84AD987FD1014 /* libLottieReactNative.a */ = {isa = PBXFileReference; name = "libLottieReactNative.a"; path = "libLottieReactNative.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
 		5727B4515B4C4163BB8042E2 /* RCTFBSDK.xcodeproj */ = {isa = PBXFileReference; name = "RCTFBSDK.xcodeproj"; path = "../node_modules/react-native-fbsdk/ios/RCTFBSDK.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
 		9A5DD0762A1A4A01B51C09F3 /* libRCTFBSDK.a */ = {isa = PBXFileReference; name = "libRCTFBSDK.a"; path = "libRCTFBSDK.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
+		5F348DDEE2004855AE05C981 /* gt-eesti-pro-display-bold-italic.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-bold-italic.otf"; path = "../assets/fonts/gt-eesti-pro-display-bold-italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		33E3F8521084457AB62378B4 /* gt-eesti-pro-display-bold.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-bold.otf"; path = "../assets/fonts/gt-eesti-pro-display-bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2F57F4562BC848C6915A09D3 /* gt-eesti-pro-display-light-italic.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-light-italic.otf"; path = "../assets/fonts/gt-eesti-pro-display-light-italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CBE6BA27386742648203CB49 /* gt-eesti-pro-display-light.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-light.otf"; path = "../assets/fonts/gt-eesti-pro-display-light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0BFCCD9A9E0C4D34B45CA7D8 /* gt-eesti-pro-display-medium-italic.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-medium-italic.otf"; path = "../assets/fonts/gt-eesti-pro-display-medium-italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		267870ADAC274D6C9C13E3DE /* gt-eesti-pro-display-medium.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-medium.otf"; path = "../assets/fonts/gt-eesti-pro-display-medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		27A52E75A84E44358F27601E /* gt-eesti-pro-display-regular-italic.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-regular-italic.otf"; path = "../assets/fonts/gt-eesti-pro-display-regular-italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1569AFBAB1D74DAAA6B468CC /* gt-eesti-pro-display-regular.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-regular.otf"; path = "../assets/fonts/gt-eesti-pro-display-regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E63B99F734CA4F5BAE16B639 /* gt-eesti-pro-display-thin-italic.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-thin-italic.otf"; path = "../assets/fonts/gt-eesti-pro-display-thin-italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		78FDC8955BEC40E88568586B /* gt-eesti-pro-display-thin.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-thin.otf"; path = "../assets/fonts/gt-eesti-pro-display-thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		000F4673526A48C48EB5A378 /* gt-eesti-pro-display-ubold-italic.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-ubold-italic.otf"; path = "../assets/fonts/gt-eesti-pro-display-ubold-italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F47165D6F6F248999B33EDCB /* gt-eesti-pro-display-ubold.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-ubold.otf"; path = "../assets/fonts/gt-eesti-pro-display-ubold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		43298785155542E08799CE89 /* gt-eesti-pro-display-ulight-italic.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-ulight-italic.otf"; path = "../assets/fonts/gt-eesti-pro-display-ulight-italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E48DAD4049874A308E0D5377 /* gt-eesti-pro-display-ulight.otf */ = {isa = PBXFileReference; name = "gt-eesti-pro-display-ulight.otf"; path = "../assets/fonts/gt-eesti-pro-display-ulight.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -586,6 +614,7 @@
 				00E356EF1AD99517003FC87E /* feleselTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+				8F0B67A9B8974F3B9DF9D7A4 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -611,6 +640,28 @@
 			);
 			name = Products;
 			sourceTree = "<group>";
+		};
+		8F0B67A9B8974F3B9DF9D7A4 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				5F348DDEE2004855AE05C981 /* gt-eesti-pro-display-bold-italic.otf */,
+				33E3F8521084457AB62378B4 /* gt-eesti-pro-display-bold.otf */,
+				2F57F4562BC848C6915A09D3 /* gt-eesti-pro-display-light-italic.otf */,
+				CBE6BA27386742648203CB49 /* gt-eesti-pro-display-light.otf */,
+				0BFCCD9A9E0C4D34B45CA7D8 /* gt-eesti-pro-display-medium-italic.otf */,
+				267870ADAC274D6C9C13E3DE /* gt-eesti-pro-display-medium.otf */,
+				27A52E75A84E44358F27601E /* gt-eesti-pro-display-regular-italic.otf */,
+				1569AFBAB1D74DAAA6B468CC /* gt-eesti-pro-display-regular.otf */,
+				E63B99F734CA4F5BAE16B639 /* gt-eesti-pro-display-thin-italic.otf */,
+				78FDC8955BEC40E88568586B /* gt-eesti-pro-display-thin.otf */,
+				000F4673526A48C48EB5A378 /* gt-eesti-pro-display-ubold-italic.otf */,
+				F47165D6F6F248999B33EDCB /* gt-eesti-pro-display-ubold.otf */,
+				43298785155542E08799CE89 /* gt-eesti-pro-display-ulight-italic.otf */,
+				E48DAD4049874A308E0D5377 /* gt-eesti-pro-display-ulight.otf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -1058,6 +1109,20 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				2D7D30AA195A4EA6B4DAF083 /* gt-eesti-pro-display-bold-italic.otf in Resources */,
+				5F6C2D8AF3EF4E549C939B21 /* gt-eesti-pro-display-bold.otf in Resources */,
+				7707BB14CFB544B68787F88F /* gt-eesti-pro-display-light-italic.otf in Resources */,
+				8EB3B3FB04324FEB945112D8 /* gt-eesti-pro-display-light.otf in Resources */,
+				7A4F2A495F69452288BD2624 /* gt-eesti-pro-display-medium-italic.otf in Resources */,
+				BF77528AE31D471F99EAE285 /* gt-eesti-pro-display-medium.otf in Resources */,
+				45FC6BC3454E41BD99435E2A /* gt-eesti-pro-display-regular-italic.otf in Resources */,
+				863EB29C80954947B2B0002B /* gt-eesti-pro-display-regular.otf in Resources */,
+				5CCE936AA6DD4C2C89EE2390 /* gt-eesti-pro-display-thin-italic.otf in Resources */,
+				78BB94AED68D444CAFF4602C /* gt-eesti-pro-display-thin.otf in Resources */,
+				F62BEF540E9B4578BE2D4417 /* gt-eesti-pro-display-ubold-italic.otf in Resources */,
+				9528BD17998D4E56AC4CE884 /* gt-eesti-pro-display-ubold.otf in Resources */,
+				E7A721B44EEA4EADB62D1CC6 /* gt-eesti-pro-display-ulight-italic.otf in Resources */,
+				E27D77EF6141479A81E88F86 /* gt-eesti-pro-display-ulight.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

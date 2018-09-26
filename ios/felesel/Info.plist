@@ -25,7 +25,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -40,13 +40,10 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
 	<key>NSAppTransportSecurity</key>
-	<!--See http://ste.vn/2015/06/10/configuring-app-transport-security-ios-9-osx-10-11/ -->
 	<dict>
-    <key>NSAllowsArbitraryLoads</key>
-    <true/>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
 		<key>NSExceptionDomains</key>
 		<dict>
 			<key>localhost</key>
@@ -56,5 +53,22 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>gt-eesti-pro-display-bold-italic.otf</string>
+		<string>gt-eesti-pro-display-bold.otf</string>
+		<string>gt-eesti-pro-display-light-italic.otf</string>
+		<string>gt-eesti-pro-display-light.otf</string>
+		<string>gt-eesti-pro-display-medium-italic.otf</string>
+		<string>gt-eesti-pro-display-medium.otf</string>
+		<string>gt-eesti-pro-display-regular-italic.otf</string>
+		<string>gt-eesti-pro-display-regular.otf</string>
+		<string>gt-eesti-pro-display-thin-italic.otf</string>
+		<string>gt-eesti-pro-display-thin.otf</string>
+		<string>gt-eesti-pro-display-ubold-italic.otf</string>
+		<string>gt-eesti-pro-display-ubold.otf</string>
+		<string>gt-eesti-pro-display-ulight-italic.otf</string>
+		<string>gt-eesti-pro-display-ulight.otf</string>
+	</array>
 </dict>
 </plist>
